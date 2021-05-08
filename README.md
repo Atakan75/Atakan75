@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C | C#
-- 🌐 &nbsp; PHP
+- 🌐 &nbsp; PHP | Javascript
 
 <br/>
 
