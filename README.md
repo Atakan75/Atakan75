@@ -15,6 +15,3 @@
 <br/>
 
 ![Atakan's Github Stats](https://github-readme-stats.vercel.app/api?username=atakan75&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/461744397722189824?theme=dark&bg=1c1c1c&animated=true&hideDiscrim=true&borderRadius=20px)](https://discord.com/users/461744397722189824)
