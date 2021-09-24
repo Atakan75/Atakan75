@@ -19,5 +19,5 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/461744397722189824?theme=dark&bg=000e27&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/461744397722189824)
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=Atakan75&label=Ziyaretçi%20Sayısı&color=0066ff" alt="mavi" />
+<img src="https://komarev.com/ghpvc/?username=Atakan75&label=Ziyaretçi%20Sayısı&color=0066ff" alt="75" />
 </p>
