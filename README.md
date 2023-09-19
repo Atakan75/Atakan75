@@ -1,7 +1,7 @@
 ~ whoami
 > just another guy who likes to code
 
-~ explain tayfunerbilen
+~ explain me
 > full-time developer, some-time normal person
 
 ~ links
