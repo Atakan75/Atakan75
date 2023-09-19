@@ -4,7 +4,7 @@
 > just another guy who likes to code
 
 ~ experiences
-> c++ ~ php~ javascript
+> c++ ~ php ~ javascript
 
 > vue ~ react ~ laravel
 
