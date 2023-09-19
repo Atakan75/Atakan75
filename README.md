@@ -1,7 +1,8 @@
-```c++
-std::cout << "beni uzmeyin" << std::endl;
-```
+~ whoami
+> just another guy who likes to code
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/461744397722189824)](https://discord.com/users/461744397722189824)
+~ explain tayfunerbilen
+> full-time developer, some-time normal person
 
-<img src="https://komarev.com/ghpvc/?username=Atakan75&label=Ziyaretçi%20Sayısı&color=0066ff" alt="75" />
+~ links
+> for more information about me -> [https://discord.gg/dark](https://discord.gg/dark)
