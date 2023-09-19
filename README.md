@@ -2,8 +2,7 @@
 > just another guy who likes to code
 > full-time developer, some-time normal person
 
-
-> ~ experiences
+~ experiences
 > c ~ c++ ~ php~ javascript
 > vue ~ react ~ laravel
 
