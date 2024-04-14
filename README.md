@@ -8,7 +8,7 @@
 
 > vue ~ laravel ~ express.js ~ elysiajs
 
-> ~ nodejs ~ bun
+> nodejs ~ bun
 
 > mysql ~ mongodb ~ redis
 
