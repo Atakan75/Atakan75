@@ -6,7 +6,9 @@
 ~ experiences
 > c ~ php ~ javascript ~ typescript
 
-> vue ~ react ~ laravel ~ nodejs
+> vue ~ laravel ~ express.js ~ elysiajs
+
+> ~ nodejs ~ bun
 
 > mysql ~ mongodb ~ redis
 
