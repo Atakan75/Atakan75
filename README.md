@@ -16,4 +16,4 @@
 > for more information about me -> [https://discord.gg/dark](https://discord.gg/dark)
 
 
-![:name](https://moe-counter.es3n1n.eu/get/@Atakan75)
+![:name](https://moe-counter.es3n1n.eu/get/@Atakan75?theme=asoul)
