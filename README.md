@@ -13,7 +13,7 @@
 > mysql ~ mongodb ~ redis
 
 ~ links
-> for more information about me -> [https://discord.gg/dark](https://discord.gg/dark)
+> for more information about me -> [https://discord.gg/axeprime](https://discord.gg/axeprime)
 
 
 ![:name](https://moe-counter.es3n1n.eu/get/@Atakan75?theme=asoul)
